@@ -13,6 +13,11 @@
 
 }
 
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .call-to-action {
     background-color: #3882F6;
     font-size: 36px;
