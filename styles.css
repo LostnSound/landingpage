@@ -38,3 +38,9 @@ button {
     margin: 25px;
     display: inline-block;
 }
+
+.images-container {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
