@@ -29,6 +29,7 @@
 button {
     background-color:#3882F6;
     color: #E5E7EB;
+    border-radius: 5px;
 }
 
 .box {
