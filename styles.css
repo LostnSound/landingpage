@@ -59,3 +59,11 @@ button {
     flex-flow: column nowrap;
     align-items: center;
 }
+
+.footer {
+    color: #E5E7EB;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
