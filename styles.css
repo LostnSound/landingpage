@@ -4,6 +4,9 @@
 }
 
 .quote {
+}
+
+.quote-text {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
@@ -25,15 +28,21 @@
 .call-to-action {
     background-color: #3882F6;
     color: #E5E7EB;
-    height: 75%;
-    width: 75%;
+    max-width: 900px;
+    min-width: 600px;
+    border-radius: 10px;
+    margin: 50px auto 50px auto;
+    display: flex;
+    align-items: center;
+}
+
+.call-to-action-text {
     font-size: 36px;
     font-weight: 900;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    border-radius: 10px;
 }
 
 button {
