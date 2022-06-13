@@ -19,6 +19,11 @@
     margin: 0 auto;
 }
 
+.img-subtext {
+    text-align: center;
+    padding-top: 2em;
+}
+
 .logo {
     display: flex;
     justify-content: flex-start;
@@ -34,6 +39,7 @@
 }
 
 .quote {
+    padding-top: 3em;
 }
 
 .quote-text {
