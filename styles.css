@@ -1,3 +1,7 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .intro {
     background-color: #1F2937;
     color: #E5E7EB;
@@ -21,7 +25,7 @@
 
 .img-subtext {
     text-align: center;
-    padding-top: 2em;
+    padding-top: 2.5em;
 }
 
 .logo {
@@ -53,6 +57,9 @@
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    width: 400px;
+    border: red;
+    border-width: 2px;
 }
 
 .header-img {
@@ -74,9 +81,11 @@
     min-width: 600px; */
     width: 750px;
     border-radius: 10px;
-    margin: 50px  auto 50px auto;
+    margin: 50px auto 50px auto;
     display: flex;
     align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
 }
 
 .call-to-action-text {
