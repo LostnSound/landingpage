@@ -168,6 +168,7 @@ button {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
+    padding-top: 2em;
 }
 
 .footer {
